@@ -2,6 +2,8 @@ import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import LanguageIcon from "@material-ui/icons/Language";
 
+import logo from "../images/logo.svg";
+
 function Header() {
 	const [menuOpened, setMenuOpened] = useState(false);
 
@@ -40,7 +42,10 @@ function Header() {
 		<Nav className="nav-bar">
 			<Logo className="nav-blur-active">
 				<a href="/">
-					<img src="/images/logo.svg" alt="Tesla logo" />
+					<img
+						src="/the-tesla-clone/static/media/logo.a7b59bc6.svg"
+						alt="Tesla logo"
+					/>
 				</a>
 			</Logo>
 			<CenterMenu className="nav-blur-active">

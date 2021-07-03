@@ -40,7 +40,8 @@ const Wrap = styled.div`
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-image: ${({ bgImg }) => `url("/images/${bgImg}")`};
+	// background-image: ${({ bgImg }) => `url("/images/${bgImg}")`};
+	background-image: ${({ bgImg }) => `url(${bgImg})`};
 	filter: blur(0px);
 	display: flex;
 	align-items: center;

@@ -42,8 +42,9 @@ const Nav = styled.nav`
 	list-style: none;
 	font-weight: 500;
 	display: flex;
-	margin-bottom: 30px;
-
+	padding-bottom: 30px;
+	justify-content: center;
+	background-color: #fff;
 	li {
 		padding: 0 5px;
 	}
@@ -57,6 +58,8 @@ const Nav = styled.nav`
 	@media (max-width: 650px) {
 		flex-direction: column;
 		text-align: center;
+		padding-bottom: 10px;
+		margin-top: 0;
 
 		li {
 			padding: 5px 0;

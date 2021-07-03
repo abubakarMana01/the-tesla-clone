@@ -6,3 +6,7 @@
 	color: #414244;
 	scroll-behavior: smooth;
 }
+
+body {
+	/* overflow-x: hidden; */
+}
