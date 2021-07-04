@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACC,QAAS,CACT,SAAU,CACV,qBAAsB,CACtB,+BAAiC,CACjC,aACD","file":"main.5c97257b.chunk.css","sourcesContent":["* {\r\n\tmargin: 0;\r\n\tpadding: 0;\r\n\tbox-sizing: border-box;\r\n\tfont-family: \"Ubuntu\", sans-serif;\r\n\tcolor: #414244;\r\n}\r\n"]}
