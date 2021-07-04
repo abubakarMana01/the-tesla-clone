@@ -1,20 +1,28 @@
 {
   "files": {
-    "main.css": "/the-tesla-clone/static/css/main.b020c7c2.chunk.css",
-    "main.js": "/the-tesla-clone/static/js/main.c859e408.chunk.js",
-    "main.js.map": "/the-tesla-clone/static/js/main.c859e408.chunk.js.map",
+    "main.css": "/the-tesla-clone/static/css/main.fb6ee8d1.chunk.css",
+    "main.js": "/the-tesla-clone/static/js/main.f96e990d.chunk.js",
+    "main.js.map": "/the-tesla-clone/static/js/main.f96e990d.chunk.js.map",
     "runtime-main.js": "/the-tesla-clone/static/js/runtime-main.9b1d42c8.js",
     "runtime-main.js.map": "/the-tesla-clone/static/js/runtime-main.9b1d42c8.js.map",
     "static/js/2.f34e1cbd.chunk.js": "/the-tesla-clone/static/js/2.f34e1cbd.chunk.js",
     "static/js/2.f34e1cbd.chunk.js.map": "/the-tesla-clone/static/js/2.f34e1cbd.chunk.js.map",
     "index.html": "/the-tesla-clone/index.html",
-    "static/css/main.b020c7c2.chunk.css.map": "/the-tesla-clone/static/css/main.b020c7c2.chunk.css.map",
-    "static/js/2.f34e1cbd.chunk.js.LICENSE.txt": "/the-tesla-clone/static/js/2.f34e1cbd.chunk.js.LICENSE.txt"
+    "static/css/main.fb6ee8d1.chunk.css.map": "/the-tesla-clone/static/css/main.fb6ee8d1.chunk.css.map",
+    "static/js/2.f34e1cbd.chunk.js.LICENSE.txt": "/the-tesla-clone/static/js/2.f34e1cbd.chunk.js.LICENSE.txt",
+    "static/media/accessories.027ada94.jpg": "/the-tesla-clone/static/media/accessories.027ada94.jpg",
+    "static/media/logo.a7b59bc6.svg": "/the-tesla-clone/static/media/logo.a7b59bc6.svg",
+    "static/media/model-3.30651f79.jpg": "/the-tesla-clone/static/media/model-3.30651f79.jpg",
+    "static/media/model-s.b65171b9.jpg": "/the-tesla-clone/static/media/model-s.b65171b9.jpg",
+    "static/media/model-x.25937b94.jpg": "/the-tesla-clone/static/media/model-x.25937b94.jpg",
+    "static/media/model-y.30acb76a.jpg": "/the-tesla-clone/static/media/model-y.30acb76a.jpg",
+    "static/media/solar-panel.d7d441d7.jpg": "/the-tesla-clone/static/media/solar-panel.d7d441d7.jpg",
+    "static/media/solar-roof.acfd9045.jpg": "/the-tesla-clone/static/media/solar-roof.acfd9045.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9b1d42c8.js",
     "static/js/2.f34e1cbd.chunk.js",
-    "static/css/main.b020c7c2.chunk.css",
-    "static/js/main.c859e408.chunk.js"
+    "static/css/main.fb6ee8d1.chunk.css",
+    "static/js/main.f96e990d.chunk.js"
   ]
 }
